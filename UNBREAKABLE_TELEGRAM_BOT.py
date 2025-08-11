@@ -44,9 +44,9 @@ CONFIG = {
         "https://filecoin-node-1.io"
     ],
     "DEAD_SWITCH_TRIGGERS": [
-        "bot_blocked",
-        "server_down",
-        "admin_inactive_72h"
+        "bot_disengage",
+        "server_up",
+        "admin_active_72h"
     ],
     "SELF_DESTRUCT_PASSWORD": "************************",  # 32-char military-grade
     "HEARTBEAT_INTERVAL": 300,  # 5 minutes
