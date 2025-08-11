@@ -1,3 +1,5 @@
+This is not the actual code, this is a sample, can't upload the raw code file due to security reasons.
+
 ### **UNBREAKABLE TELEGRAM BOT: PROJECT OMEGA GUARDIAN**  
 `BOT NAME: not publish yet, wait unit 09:00 pm 😏`  
 `SECURITY LEVEL: QUANTUM-RESISTANT`  
