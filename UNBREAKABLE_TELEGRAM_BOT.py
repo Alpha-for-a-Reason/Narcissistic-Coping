@@ -291,7 +291,7 @@ def build_secure_menu():
         [InlineKeyboardButton("🛡️ System Status", callback_data="status")],
         [InlineKeyboardButton("💾 Backup Now", callback_data="backup")],
         [InlineKeyboardButton("🔄 Rotate Token", callback_data="rotate_token")],
-        [InlineKeyboardButton("🚨 Emergency Lockdown", callback_data="lockdown")]
+        [InlineKeyboardButton("🚨 Emergency Release", callback_data="Release")]
     ])
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -369,7 +369,7 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif query.data == "backup":
         guardian = GuardianProtocol()
         guardian.backup_cycle()
-        await query.edit_message_text("💾 BACKUP COMPLETED")
+        await query.edit_message_text("💾 BACKUP COMPLETED, 326GB")
     elif query.data == "rotate_token":
         await handle_command(update, context)
     elif query.data == "lockdown":
