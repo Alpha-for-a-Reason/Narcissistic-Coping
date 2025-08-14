@@ -1,5 +1,7 @@
 # You don't have enough hate to hate me forever and ever and ever, Hate me like ~ If you're in a room lock with H!tler and B!n Lad€n & me and you have a gun with two bullets in it then you will shoot me twice ☠️
 
+https://github.com/user-attachments/assets/e01423f7-9aa1-443c-9190-6d068a8e33c5
+
 https://github.com/user-attachments/assets/bc8f9639-a08b-407e-8926-0db39075fbdd
 
 # Playing victim doesn't work with me.
