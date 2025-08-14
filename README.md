@@ -4,8 +4,6 @@
 
 https://github.com/user-attachments/assets/e01423f7-9aa1-443c-9190-6d068a8e33c5
 
-https://github.com/user-attachments/assets/bc8f9639-a08b-407e-8926-0db39075fbdd
-
 # Playing victim doesn't work with me.
 I don't mind being a villain 😏
 
@@ -15,6 +13,8 @@ People call other's pain a punishment for their karma, but see their own sufferi
 
 # She Play With Guy's Heart & then meet someone like me
 "Don't worry, l am her karma"
+
+https://github.com/user-attachments/assets/bc8f9639-a08b-407e-8926-0db39075fbdd
 
 
 # Check UNBREAKABLE_TELEGRAM_BOT.py for codes, it's take 96 Hours & 120 Black Filters to make the Anonymous Bot 😎
