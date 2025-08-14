@@ -1,5 +1,6 @@
 # You don't have enough hate to hate me forever and ever and ever, Hate me like ~ If you're in a room lock with H!tler and B!n Lad€n & me and you have a gun with two bullets in it then you will shoot me twice ☠️
 
+https://github.com/user-attachments/assets/bc8f9639-a08b-407e-8926-0db39075fbdd
 
 # Playing victim doesn't work with me.
 I don't mind being a villain 😏
@@ -10,8 +11,6 @@ People call other's pain a punishment for their karma, but see their own sufferi
 
 # She Play With Guy's Heart & then meet someone like me
 "Don't worry, l am her karma"
-
-https://github.com/user-attachments/assets/c62ae0f2-8e0a-4b8a-926a-41afd19820ad
 
 
 # Check UNBREAKABLE_TELEGRAM_BOT.py for codes, it's take 96 Hours & 120 Black Filters to make the Anonymous Bot 😎
