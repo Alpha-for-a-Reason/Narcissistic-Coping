@@ -1,3 +1,6 @@
+# You don't have enough hate to hate me forever and ever and ever, Hate me like ~ If you're in a room lock with H!tler and B!n Lad€n & me and you have a gun with two bullets in it then you will shoot me twice ☠️
+
+
 # Playing victim doesn't work with me.
 I don't mind being a villain 😏
 
