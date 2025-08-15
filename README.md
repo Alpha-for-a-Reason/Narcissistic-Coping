@@ -17,6 +17,8 @@ https://github.com/user-attachments/assets/95bdc77a-46dc-4fa0-ba16-d3193645f022
 
 https://github.com/user-attachments/assets/bc8f9639-a08b-407e-8926-0db39075fbdd
 
+# That's why nobody loves you
+https://github.com/user-attachments/assets/f68c12cf-5dbc-4eeb-8250-c6aa906dcd87
 
 # Check UNBREAKABLE_TELEGRAM_BOT.py for codes, it's take 96 Hours & 120 Black Filters to make the Anonymous Bot 😎
 
