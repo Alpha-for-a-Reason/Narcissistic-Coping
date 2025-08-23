@@ -1058,3 +1058,7 @@ sudo systemctl start alpha_vault
 + Whistleblower protection systems
 + Emergency information release
 + Authorized data escrow services
+```
+
+### WARNING ⚠️ ###
+"I do not authorize anyone to use my code. Anyone who uses it for malicious purposes is solely responsible for their actions."
