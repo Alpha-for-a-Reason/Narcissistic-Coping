@@ -15,7 +15,6 @@ https://github.com/user-attachments/assets/95bdc77a-46dc-4fa0-ba16-d3193645f022
 # She Play With Guy's Heart & then meet someone like me
 "Don't worry, l am her karma"
 
-https://github.com/user-attachments/assets/bc8f9639-a08b-407e-8926-0db39075fbdd
 
 # That's why nobody loves you
 https://github.com/user-attachments/assets/f68c12cf-5dbc-4eeb-8250-c6aa906dcd87
