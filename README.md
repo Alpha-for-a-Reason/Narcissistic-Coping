@@ -1,5 +1,3 @@
-# People call other's pain a punishment for their karma, but see their own suffering as a divine test 😏.
-
 ![Image](https://github.com/user-attachments/assets/7a2c2187-5a80-4b4a-ad3b-ae042122691c)
 
 # You don't have enough hate to hate me forever and ever and ever, Hate me like ~ If you're in a room lock with H!tler and B!n Lad€n & me and you have a gun with two bull€ts in it then you will sho0t me twice ☠️
@@ -1027,7 +1025,7 @@ sudo systemctl start alpha_vault
 | Command | Function |  
 |---------|----------|  
 | `/start` | Authentication & control panel |  
-| `VERIFY TOR ACCESS` | Test media retrieval |  
+| `VERIFY TOR ACCESS` | Media retrieval |  
 | `PUBLISH ALL DATA` | Release to public channel |  
 | `ARM DEAD SWITCH` | Activate anti-censorship protocol |  
 
@@ -1042,7 +1040,7 @@ sudo systemctl start alpha_vault
 2. **Data Protection**  
    - AES-256 encryption for manifest  
    - Key management via Fernet  
-   - Zero-knowledge release protocol  
+   - Release protocol  
 
 3. **Anti-Censorship**  
    - Multi-platform distribution (Pastebin, IPFS)  
